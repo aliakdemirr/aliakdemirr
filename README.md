@@ -2,10 +2,6 @@
 **I'm Ali.**
 <br>💬 Ask me about JavaScript<br>📫 How to reach me akdemirmehmetali562@gmail.com
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-akdemir/)
-
 ## Tech Stack 💪🏼
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)

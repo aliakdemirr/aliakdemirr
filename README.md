@@ -1,5 +1,6 @@
 **Hey There!**
-**I'm Ali.**
+**I'm Mehmet Ali Akdemir.**
+**I'm Software Engineer.**
 <br>💬 Ask me about JavaScript<br>📫 How to reach me akdemirmehmetali562@gmail.com
 
 ## Tech Stack 💪🏼

@@ -2,7 +2,7 @@
 
 **I'm Mehmet Ali Akdemir.** **I'm Software Engineer.**
 
-📫 How to reach me akdemirmehmetali562@gmail.com
+📫 How to reach me ali.akdemir@colendi.com
 
 ## Tech Stack 💪🏼
 
